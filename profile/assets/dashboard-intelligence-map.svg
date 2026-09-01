@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980" role="img" aria-labelledby="t d">
+<title id="t">CoreX Signal AI Dashboard Intelligence Map</title>
+<desc id="d">Public product map covering CoreX Signal AI decision, timeframe, risk, forecast, depth, performance, interpretation, factor, regime, macro, chart and profile modules.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#02070d"/><stop offset=".55" stop-color="#06131d"/><stop offset="1" stop-color="#02080f"/></linearGradient>
+ <linearGradient id="a" x1="0" x2="1"><stop stop-color="#00f5c3"/><stop offset="1" stop-color="#3dcfff"/></linearGradient>
+ <filter id="g" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <style>
+ .brand{font:800 48px Inter,Segoe UI,Arial,sans-serif;fill:#f5f9fc}.sub{font:700 18px Inter,Segoe UI,Arial,sans-serif;fill:#91a9b9;letter-spacing:1px}.h{font:800 17px Inter,Segoe UI,Arial,sans-serif;fill:#eaf5f8}.p{font:600 12px Inter,Segoe UI,Arial,sans-serif;fill:#8ea5b4}.num{font:800 14px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#00f5c3}.metric{font:800 22px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#00f5c3}.tiny{font:700 11px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#728b9c}.card{fill:#07131d;stroke:#194153;stroke-width:1.3}.card2{fill:#07151e;stroke:#00d9aa;stroke-opacity:.45;stroke-width:1.4}
+ </style>
+</defs>
+<rect width="1600" height="980" rx="30" fill="url(#bg)"/>
+<circle cx="1490" cy="85" r="180" fill="#00f5c3" opacity=".055"/><circle cx="120" cy="910" r="200" fill="#2da9ff" opacity=".04"/>
+<rect x="42" y="34" width="74" height="74" rx="18" fill="#06141d" stroke="#00f5c3" stroke-width="2" filter="url(#g)"/><path d="M61 55 L96 89 M96 55 L61 89" stroke="url(#a)" stroke-width="7" stroke-linecap="round"/>
+<text x="140" y="76" class="brand">CoreX Signal <tspan fill="#00f5c3">AI</tspan></text><text x="141" y="105" class="sub">DASHBOARD INTELLIGENCE MAP · PUBLIC PRODUCT VIEW</text>
+<g transform="translate(1130 38)"><rect width="420" height="66" rx="14" class="card2"/><text x="28" y="29" class="num">BUILT FOR TRADERS.</text><text x="28" y="51" class="num">POWERED BY AI.</text></g>
+
+<!-- market strip -->
+<g transform="translate(42 130)">
+<rect width="1508" height="78" rx="18" fill="#050e16" stroke="#173545"/>
+<text x="22" y="29" class="tiny">MULTI-MARKET</text>
+<g transform="translate(128 15)">
+ <g><rect width="170" height="48" rx="11" class="card"/><text x="14" y="20" class="h">EURUSD</text><text x="14" y="39" class="num">LIVE FX</text></g>
+ <g transform="translate(182)"><rect width="170" height="48" rx="11" class="card"/><text x="14" y="20" class="h">GBPUSD</text><text x="14" y="39" class="num">LIVE FX</text></g>
+ <g transform="translate(364)"><rect width="170" height="48" rx="11" class="card"/><text x="14" y="20" class="h">USDJPY</text><text x="14" y="39" class="num">LIVE FX</text></g>
+ <g transform="translate(546)"><rect width="170" height="48" rx="11" class="card"/><text x="14" y="20" class="h">USDCAD</text><text x="14" y="39" class="num">LIVE FX</text></g>
+ <g transform="translate(728)"><rect width="170" height="48" rx="11" class="card2"/><text x="14" y="20" class="h">XAUUSD</text><text x="14" y="39" class="num">GOLD</text></g>
+ <g transform="translate(910)"><rect width="170" height="48" rx="11" class="card"/><text x="14" y="20" class="h">Bitcoin</text><text x="14" y="39" class="num">CRYPTO</text></g>
+ <g transform="translate(1092)"><rect width="170" height="48" rx="11" class="card"/><text x="14" y="20" class="h">Ethereum</text><text x="14" y="39" class="num">CRYPTO</text></g>
+</g></g>
+
+<!-- central dashboard -->
+<g transform="translate(292 238)">
+<rect width="1016" height="470" rx="22" fill="#030a11" stroke="#00d9aa" stroke-opacity=".55" stroke-width="2"/>
+<rect x="18" y="16" width="980" height="42" rx="10" fill="#07131d"/><text x="34" y="42" class="h">CoreX Signal AI · XAUUSD</text><text x="350" y="42" class="tiny">PRICE · BIAS · COMPOSITE · CONFIDENCE · ALIGNMENT · READINESS · REGIME · RISK · SESSION</text>
+<g transform="translate(18 72)">
+ <rect width="314" height="166" rx="14" class="card2"/><text x="18" y="28" class="num">01 AI DECISION OUTPUT</text><text x="18" y="62" class="h">Golden BUY Signal</text><text x="18" y="88" class="p">Rationale · confidence · expected value</text><text x="18" y="115" class="metric">74.6%</text><text x="118" y="115" class="metric">+2.51R</text><text x="18" y="142" class="tiny">WIN RATE · EXPECTED VALUE · PAST SETUPS</text>
+ <rect x="344" width="314" height="166" rx="14" class="card"/><text x="362" y="28" class="num">02 CROSS-TIMEFRAME</text><text x="362" y="53" class="p">M1 · M5 · M15 · M30 · H1 · H4 · D1 · W1 · MN1</text>
+ <g transform="translate(362 72)"><rect width="60" height="55" rx="8" fill="#0a1826"/><text x="13" y="21" class="tiny">M1</text><text x="10" y="42" class="num">HOLD</text><g transform="translate(67)"><rect width="60" height="55" rx="8" fill="#251016"/><text x="13" y="21" class="tiny">M5</text><text x="10" y="42" style="font:800 13px monospace;fill:#ff6077">SELL</text></g><g transform="translate(134)"><rect width="60" height="55" rx="8" fill="#08241e"/><text x="10" y="21" class="tiny">M15</text><text x="12" y="42" class="num">BUY</text></g><g transform="translate(201)"><rect width="60" height="55" rx="8" fill="#08241e"/><text x="10" y="21" class="tiny">H1</text><text x="12" y="42" class="num">BUY</text></g></g>
+ <rect x="670" width="310" height="166" rx="14" class="card"/><text x="688" y="28" class="num">04 EXECUTION OPTIMIZATION</text><text x="688" y="59" class="h">BUY · LOW · R:R 2.0</text><text x="688" y="96" class="metric">6.28</text><text x="760" y="96" class="tiny">LOT SIZE</text><line x1="688" y1="119" x2="956" y2="119" stroke="#193c4b" stroke-width="6"/><line x1="767" y1="119" x2="956" y2="119" stroke="url(#a)" stroke-width="6"/><text x="688" y="146" class="tiny">SL · ENTRY · TP · ATR · RISK BUDGET</text>
+</g>
+<g transform="translate(18 252)">
+ <rect width="230" height="192" rx="14" class="card"/><text x="16" y="26" class="num">06 FORECAST</text><path d="M20 142 C55 140 68 69 113 70 C158 71 177 140 211 142" fill="none" stroke="url(#a)" stroke-width="3"/><line x1="113" y1="60" x2="113" y2="154" stroke="#7a69ff" stroke-dasharray="4 5"/><text x="16" y="52" class="tiny">95% CI · 1000 PATHS · 24H</text><text x="16" y="176" class="tiny">LOWER · MEDIAN · UPPER</text>
+ <rect x="242" width="230" height="192" rx="14" class="card"/><text x="258" y="26" class="num">07 DEPTH MAP</text><rect x="258" y="58" width="194" height="38" rx="8" fill="#241014" stroke="#7e2634"/><text x="270" y="81" class="p">SUPPLY ZONE</text><line x1="258" y1="112" x2="452" y2="112" stroke="#42d7ff"/><text x="270" y="132" class="tiny">SPOT PRICE</text><rect x="258" y="143" width="194" height="34" rx="8" fill="#08251f" stroke="#0d765d"/><text x="270" y="164" class="p">DEMAND ZONE</text>
+ <rect x="484" width="230" height="192" rx="14" class="card"/><text x="500" y="26" class="num">08 PERFORMANCE</text><path d="M500 151 L530 150 L560 144 L590 146 L620 123 L650 116 L680 74 L698 51" fill="none" stroke="#57e847" stroke-width="4"/><text x="500" y="176" class="tiny">RETURN · MAX DD · WIN RATE · SIGNALS</text>
+ <rect x="726" width="254" height="192" rx="14" class="card"/><text x="742" y="26" class="num">10 MODEL INTERPRETATION</text><text x="742" y="55" class="p">[M1] BUY · PCA · Momentum</text><text x="742" y="78" class="p">[M15] HOLD · Hurst · Gradient</text><text x="742" y="101" class="p">[H1] BUY · Trend Strength</text><text x="742" y="124" class="p">[D1] BUY · Higher TF support</text><text x="742" y="159" class="tiny">HUMAN-READABLE REASONING</text>
+</g></g>
+
+<!-- left callouts -->
+<g transform="translate(42 238)">
+ <g><rect width="220" height="82" rx="13" class="card2"/><text x="16" y="26" class="num">15</text><text x="48" y="26" class="h">Risk Profiles</text><text x="16" y="50" class="p">Conservative · Balanced</text><text x="16" y="68" class="p">Aggressive · Scalper</text></g>
+ <g transform="translate(0 96)"><rect width="220" height="82" rx="13" class="card"/><text x="16" y="26" class="num">10</text><text x="48" y="26" class="h">Market Regime Pulse</text><text x="16" y="52" class="p">Alignment · correlation</text><text x="16" y="68" class="p">sync / drift context</text></g>
+ <g transform="translate(0 192)"><rect width="220" height="82" rx="13" class="card"/><text x="16" y="26" class="num">12</text><text x="48" y="26" class="h">Structural DNA</text><text x="16" y="52" class="p">Hurst · trend/random walk</text><text x="16" y="68" class="p">ML confirmation</text></g>
+ <g transform="translate(0 288)"><rect width="220" height="82" rx="13" class="card"/><text x="16" y="26" class="num">11</text><text x="48" y="26" class="h">Macro Feed</text><text x="16" y="52" class="p">News · sentiment · impact</text><text x="16" y="68" class="p">session windows</text></g>
+</g>
+
+<!-- right callouts -->
+<g transform="translate(1338 238)">
+ <g><rect width="212" height="70" rx="13" class="card2"/><text x="14" y="25" class="num">01</text><text x="46" y="25" class="h">AI Decision</text><text x="14" y="49" class="p">Action · rationale · value</text></g>
+ <g transform="translate(0 82)"><rect width="212" height="70" rx="13" class="card"/><text x="14" y="25" class="num">02</text><text x="46" y="25" class="h">Timeframe Coherence</text><text x="14" y="49" class="p">Micro → macro alignment</text></g>
+ <g transform="translate(0 164)"><rect width="212" height="70" rx="13" class="card"/><text x="14" y="25" class="num">03</text><text x="46" y="25" class="h">Strategic Console</text><text x="14" y="49" class="p">Score · risk · readiness</text></g>
+ <g transform="translate(0 246)"><rect width="212" height="70" rx="13" class="card"/><text x="14" y="25" class="num">04</text><text x="46" y="25" class="h">Execution Planning</text><text x="14" y="49" class="p">ATR · R:R · SL / TP</text></g>
+ <g transform="translate(0 328)"><rect width="212" height="70" rx="13" class="card"/><text x="14" y="25" class="num">16</text><text x="46" y="25" class="h">11 Languages</text><text x="14" y="49" class="p">One global workspace</text></g>
+</g>
+
+<!-- bottom feature grid -->
+<g transform="translate(42 738)">
+<text x="0" y="0" class="sub">COMPLETE INTELLIGENCE STACK</text>
+<g transform="translate(0 24)">
+ <g><rect width="236" height="74" rx="13" class="card"/><text x="15" y="25" class="num">05</text><text x="47" y="25" class="h">Probabilistic Forecast</text><text x="15" y="51" class="p">Scenario ranges · uncertainty</text></g>
+ <g transform="translate(250)"><rect width="236" height="74" rx="13" class="card"/><text x="15" y="25" class="num">06</text><text x="47" y="25" class="h">Institutional Depth</text><text x="15" y="51" class="p">Supply · demand · FVG / OB</text></g>
+ <g transform="translate(500)"><rect width="236" height="74" rx="13" class="card"/><text x="15" y="25" class="num">07</text><text x="47" y="25" class="h">Performance Curve</text><text x="15" y="51" class="p">Return · DD · Win Rate</text></g>
+ <g transform="translate(750)"><rect width="236" height="74" rx="13" class="card"/><text x="15" y="25" class="num">09</text><text x="47" y="25" class="h">Factor Intelligence</text><text x="15" y="51" class="p">Radar · impact drivers</text></g>
+ <g transform="translate(1000)"><rect width="236" height="74" rx="13" class="card"/><text x="15" y="25" class="num">13</text><text x="47" y="25" class="h">Price &amp; Signal Chart</text><text x="15" y="51" class="p">Layers · visual confluence</text></g>
+ <g transform="translate(1250)"><rect width="258" height="74" rx="13" class="card2"/><text x="15" y="25" class="num">14</text><text x="47" y="25" class="h">Secondary Analysis</text><text x="15" y="51" class="p">HOLD · BUY · SELL reasoning</text></g>
+</g>
+<g transform="translate(0 112)"><rect width="1508" height="82" rx="16" fill="#06131b" stroke="#144253"/><text x="28" y="31" class="sub">DECISION QUALITY OVER SIGNAL NOISE</text><text x="28" y="58" class="h">Explainable reasoning · Active Protection · multi-timeframe context · risk-aware planning · probabilistic scenarios · macro awareness</text><text x="1305" y="50" class="num">COREX SIGNAL AI</text></g>
+</g>
+</svg>
