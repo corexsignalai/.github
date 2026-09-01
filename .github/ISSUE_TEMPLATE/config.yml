@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: CoreX Signal AI Support
+    url: https://corexsignalai.com/
+    about: Product, account, subscription and service support.
+  - name: Security Policy
+    url: https://github.com/corexsignalai/.github/security/policy
+    about: Read the private vulnerability-reporting guidance before reporting a security issue.
