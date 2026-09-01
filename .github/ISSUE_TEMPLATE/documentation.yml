@@ -1,0 +1,41 @@
+name: Documentation correction
+description: Report a factual, link, accessibility or public-profile documentation issue
+title: "[Docs] "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve the public CoreX Signal AI documentation. Do not include credentials, private data or vulnerability details.
+  - type: input
+    id: location
+    attributes:
+      label: Page or file
+      description: Where is the issue?
+      placeholder: profile/README.md
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is incorrect or unclear?
+      description: Describe the public documentation problem.
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Suggested correction
+      description: Provide corrected wording or an official source if available.
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: This is about public documentation, not account support.
+          required: true
+        - label: I have not included credentials, private data or security-sensitive information.
+          required: true
+        - label: This is not a vulnerability report.
+          required: true
