@@ -4,6 +4,12 @@
 
 The product experience combines **real-time market context, explainable signal reasoning, multi-timeframe coherence, strategy profiles, dynamic risk context, probabilistic forecasting, institutional depth mapping, macro intelligence and historical setup analytics** in one interface.
 
+## Technology origin
+
+**CoreX Signal AI is built on proprietary technology infrastructure designed and developed by CoreX Capital AI.**
+
+CoreX Capital AI is the developer of the product's core technology infrastructure. Third-party platforms and providers referenced in the CoreX Signal AI ecosystem support functions such as integration, connectivity, market data, visualization, storage and delivery; they are not the developer or owner of the CoreX Signal AI core infrastructure.
+
 ## Core product proposition
 
 **One dashboard. Multiple intelligence layers.**
