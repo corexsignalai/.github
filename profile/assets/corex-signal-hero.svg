@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="700" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+<title id="title">CoreX Signal AI — AI-Powered Quantitative Market Intelligence</title>
+<desc id="desc">Animated promotional hero for CoreX Signal AI highlighting explainable signals, multi-market analysis, strategy profiles, 11 languages, risk context and historical win-rate analytics.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#030711"/>
+    <stop offset=".55" stop-color="#07111a"/>
+    <stop offset="1" stop-color="#02060c"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#00f5c3"/>
+    <stop offset="1" stop-color="#42d7ff"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+    <feGaussianBlur stdDeviation="18"/>
+  </filter>
+  <style>
+    .label{font:700 19px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:2px;fill:#8fa6b8}
+    .tiny{font:600 14px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1px;fill:#72899a}
+    .body{font:500 23px Inter,Segoe UI,Arial,sans-serif;fill:#c8d5df}
+    .chip{font:700 18px Inter,Segoe UI,Arial,sans-serif;fill:#dffcf6}
+    .metric{font:800 34px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#00f5c3}
+    .card{fill:#07111b;stroke:#163548;stroke-width:1.6}
+    .card2{fill:#081521;stroke:#00d6aa;stroke-opacity:.35;stroke-width:1.5}
+  </style>
+</defs>
+
+<rect width="1600" height="700" rx="34" fill="url(#bg)"/>
+<circle cx="1465" cy="90" r="185" fill="#00f5c3" opacity=".06" filter="url(#soft)">
+  <animate attributeName="opacity" values=".04;.09;.04" dur="5s" repeatCount="indefinite"/>
+</circle>
+<circle cx="220" cy="650" r="220" fill="#1c9cff" opacity=".055" filter="url(#soft)">
+  <animate attributeName="opacity" values=".03;.075;.03" dur="6s" repeatCount="indefinite"/>
+</circle>
+
+<!-- logo -->
+<rect x="72" y="58" width="94" height="94" rx="24" fill="#06131c" stroke="#00f5c3" stroke-width="2.2" filter="url(#glow)"/>
+<path d="M96 84 L142 130 M142 84 L96 130" fill="none" stroke="url(#accent)" stroke-width="8" stroke-linecap="round"/>
+<text x="198" y="113" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="800" fill="#f5f9fc">CoreX Signal <tspan fill="#00f5c3">AI</tspan></text>
+<text x="202" y="158" class="label">AI-POWERED QUANTITATIVE MARKET INTELLIGENCE</text>
+
+<text x="74" y="226" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="800" fill="#f7fbff">See the market from signal to context.</text>
+<text x="74" y="270" class="body">Explainable AI signals · strategy selection · 11 languages</text>
+<text x="74" y="302" class="body">Multi-market monitoring · dynamic risk context · historical setup analytics</text>
+<text x="74" y="334" class="body">Decision support only · no direct trade execution</text>
+
+<!-- feature chips -->
+<g transform="translate(75 360)">
+  <g><rect width="230" height="54" rx="14" class="card2"/><text x="22" y="34" class="chip">Explainable AI</text></g>
+  <g transform="translate(242)"><rect width="230" height="54" rx="14" class="card2"/><text x="22" y="34" class="chip">Multi-Timeframe</text></g>
+  <g transform="translate(484)"><rect width="185" height="54" rx="14" class="card2"/><text x="22" y="34" class="chip">Risk-Aware</text></g>
+  <g transform="translate(681)"><rect width="215" height="54" rx="14" class="card2"/><text x="22" y="34" class="chip">11 Languages</text></g>
+</g>
+
+<!-- dashboard mini composition -->
+<g transform="translate(76 438)">
+  <rect width="930" height="208" rx="24" fill="#050c14" stroke="#173143" stroke-width="2"/>
+  <rect x="18" y="18" width="280" height="172" rx="18" class="card"/>
+  <text x="38" y="50" class="label">AI DECISION OUTPUT</text>
+  <text x="38" y="88" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800" fill="#00f5c3">Signal + Rationale</text>
+  <text x="38" y="121" class="tiny">Historical outcome · Expected R</text>
+  <text x="38" y="148" class="tiny">Risk profile · Veto context</text>
+  <rect x="38" y="161" width="74" height="12" rx="6" fill="#00f5c3" opacity=".75">
+    <animate attributeName="width" values="74;196;74" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="316" y="18" width="290" height="172" rx="18" class="card"/>
+  <text x="336" y="50" class="label">CROSS-TIMEFRAME</text>
+  <g transform="translate(336 72)">
+    <rect width="52" height="70" rx="10" fill="#0a1930"/><text x="15" y="25" class="tiny">M1</text><text x="8" y="53" font-family="monospace" font-size="17" font-weight="800" fill="#5aa6ff">HOLD</text>
+    <g transform="translate(61)"><rect width="52" height="70" rx="10" fill="#261018"/><text x="15" y="25" class="tiny">M5</text><text x="8" y="53" font-family="monospace" font-size="17" font-weight="800" fill="#ff6077">SELL</text></g>
+    <g transform="translate(122)"><rect width="52" height="70" rx="10" fill="#08251f"/><text x="12" y="25" class="tiny">M15</text><text x="9" y="53" font-family="monospace" font-size="17" font-weight="800" fill="#00f5c3">BUY</text></g>
+    <g transform="translate(183)"><rect width="52" height="70" rx="10" fill="#0a1930"/><text x="10" y="25" class="tiny">H1</text><text x="8" y="53" font-family="monospace" font-size="17" font-weight="800" fill="#5aa6ff">HOLD</text></g>
+  </g>
+  <text x="336" y="166" class="tiny">Micro → macro coherence</text>
+
+  <rect x="624" y="18" width="288" height="172" rx="18" class="card"/>
+  <text x="644" y="50" class="label">RISK &amp; FORECAST</text>
+  <text x="644" y="94" class="metric">95% CI</text>
+  <path d="M648 145 C690 145 705 92 760 92 C815 92 832 145 892 145" fill="none" stroke="url(#accent)" stroke-width="4"/>
+  <circle cx="760" cy="92" r="6" fill="#00f5c3" filter="url(#glow)">
+    <animate attributeName="r" values="5;8;5" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="644" y="170" class="tiny">Scenario range · Depth · Regime</text>
+</g>
+
+<!-- right rail -->
+<g transform="translate(1040 188)">
+  <rect width="488" height="470" rx="25" fill="#06101a" stroke="#1b3b4f" stroke-width="2"/>
+  <text x="34" y="48" class="label">COREX SIGNAL AI — DASHBOARD</text>
+  <g transform="translate(34 78)">
+    <rect width="420" height="58" rx="14" class="card2"/><text x="20" y="36" class="chip">EURUSD · GBPUSD · USDJPY · USDCAD</text>
+    <g transform="translate(0 70)"><rect width="420" height="58" rx="14" class="card2"/><text x="20" y="36" class="chip">XAUUSD · Bitcoin · Ethereum</text></g>
+    <g transform="translate(0 140)"><rect width="420" height="58" rx="14" class="card"/><text x="20" y="25" class="tiny">RISK PROFILE</text><text x="20" y="47" class="chip">Conservative · Balanced · Aggressive · Scalper</text></g>
+    <g transform="translate(0 210)"><rect width="420" height="58" rx="14" class="card"/><text x="20" y="25" class="tiny">INTELLIGENCE LAYERS</text><text x="20" y="47" class="chip">Forecast · Depth · Regime · Macro · Factors</text></g>
+    <g transform="translate(0 280)"><rect width="420" height="58" rx="14" class="card"/><text x="20" y="25" class="tiny">ANALYTICS</text><text x="20" y="47" class="chip">Win Rate · Expected R · Drawdown · Signals</text></g>
+  </g>
+  <text x="34" y="446" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" fill="#00f5c3">BUILT FOR TRADERS. POWERED BY AI.</text>
+</g>
+
+<!-- moving line -->
+<rect x="74" y="666" width="1452" height="2" fill="#153746"/>
+<rect x="74" y="666" width="220" height="2" fill="url(#accent)" filter="url(#glow)">
+  <animate attributeName="x" values="74;1306;74" dur="7s" repeatCount="indefinite"/>
+</rect>
+</svg>
