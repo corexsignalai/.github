@@ -8,7 +8,7 @@ The product experience combines **real-time market context, explainable signal r
 
 **CoreX Signal AI is built on proprietary technology infrastructure designed and developed by CoreX Capital AI.**
 
-CoreX Capital AI is the developer of the product's core technology infrastructure. Third-party platforms and providers referenced in the CoreX Signal AI ecosystem support functions such as integration, connectivity, market data, visualization, storage and delivery; they are not the developer or owner of the CoreX Signal AI core infrastructure.
+CoreX Capital AI is the developer of the product's core technology infrastructure. Third-party platforms and providers referenced in the CoreX Signal AI ecosystem support functions such as integration, connectivity, market data, visualization, storage, infrastructure and delivery; they are not the developer or owner of the CoreX Signal AI core technology.
 
 ## Core product proposition
 
@@ -52,6 +52,15 @@ CoreX Signal AI is designed to help users answer four questions quickly:
 ## Explainability
 
 The public product is intentionally designed around **human-readable AI** rather than a black-box signal badge. Visible reasoning can include factors such as PCA, trend strength, momentum, gradient, Hurst, flow imbalance, DTW, volatility / regime effects and divergence context.
+
+## Explore by topic
+
+- [AI-powered market intelligence](AI-MARKET-INTELLIGENCE.md)
+- [Explainable AI for market analysis](EXPLAINABLE-AI.md)
+- [Forex, Gold & Crypto intelligence](FOREX-GOLD-CRYPTO.md)
+- [Product use cases](USE_CASES.md)
+- [Frequently asked questions](FAQ.md)
+- [Complete public content index](INDEX.md)
 
 ## Product scope
 
