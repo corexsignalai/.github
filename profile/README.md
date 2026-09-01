@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/corex-signal-hero.svg" width="100%" alt="CoreX Signal AI — AI-powered quantitative market intelligence">
+<img src="./assets/corex-signal-hero.svg" width="100%" alt="CoreX Signal AI — AI-powered quantitative market intelligence and explainable market signal analytics">
 
 <br>
 
@@ -39,9 +39,17 @@ Instead of reducing the market to a single BUY / SELL badge, the product combine
 
 ---
 
+## Technology origin
+
+**CoreX Signal AI is built on proprietary technology infrastructure designed and developed by CoreX Capital AI.**
+
+CoreX Capital AI is the developer of the CoreX Signal AI core technology. Third-party services and platforms referenced across the public ecosystem support functions such as integration, connectivity, market data, visualization, storage, infrastructure or delivery; they are **not** the developer or owner of the CoreX Signal AI core technology.
+
+---
+
 ## Dashboard Intelligence Overview
 
-<img src="./assets/dashboard-intelligence-map.svg" width="100%" alt="CoreX Signal AI complete dashboard intelligence map">
+<img src="./assets/dashboard-intelligence-map.svg" width="100%" alt="CoreX Signal AI dashboard intelligence overview with explainable AI market signals, multi-timeframe analysis, risk context, forecasting and market structure">
 
 The dashboard is structured as a complete intelligence stack rather than a collection of disconnected widgets.
 
@@ -51,11 +59,11 @@ The dashboard is structured as a complete intelligence stack rather than a colle
 | ↕ **Cross-Timeframe Coherence** | Micro-to-macro agreement across nine timeframes |
 | 🎛 **Strategic Console** | AI Confidence, Master Score, Market Risk and directional-power context |
 | 🛡 **Execution Optimization** | ATR-aware analytical sizing, R:R, SL / Entry / TP geometry and risk-budget context |
-| 🔮 **Probabilistic Forecasting** | 95% CI, 1,000-path scenario distribution, lower / median / upper outcomes |
+| 🔮 **Probabilistic Forecasting** | 95% CI, scenario distribution and lower / median / upper outcomes |
 | 🏦 **Institutional Depth Map** | Supply / demand zones, FVG / OB context and spot-price anchoring |
 | 📈 **Strategy Performance Curve** | Historical / simulated return, drawdown, Win Rate, signal count and equity curve |
 | 🔍 **Model Interpretation** | Human-readable reasoning by timeframe |
-| 🕸 **Factor Intelligence Hub** | Radar view and ranked positive / negative impact drivers |
+| 🕸 **Factor Intelligence Hub** | Factor radar and ranked positive / negative impact drivers |
 | 🌐 **Market Regime Pulse** | Alignment, drift and cross-market correlation context |
 | 📰 **Macro Intelligence Feed** | Headlines, sentiment, impact and session windows |
 | 🧬 **Regime & Structural DNA** | Trending / Random-Walk state, Hurst and ML context |
@@ -68,9 +76,9 @@ The dashboard is structured as a complete intelligence stack rather than a colle
 
 ---
 
-## Active Protection — Protection Is a First-Class Decision
+## Active Protection — protection is a first-class decision
 
-<img src="./assets/protection-flow.svg" width="100%" alt="CoreX Signal AI Active Protection and Veto decision flow">
+<img src="./assets/protection-flow.svg" width="100%" alt="CoreX Signal AI Active Protection VETO and no-trade decision flow">
 
 A professional decision system must be able to say **do not enter**.
 
@@ -91,7 +99,7 @@ This gives users visibility not only into **why a trade exists**, but also **why
 
 ## Multi-Market · Multi-Timeframe · Multi-Profile
 
-<img src="./assets/coverage-grid.svg" width="100%" alt="CoreX Signal AI market timeframe strategy and language coverage">
+<img src="./assets/coverage-grid.svg" width="100%" alt="CoreX Signal AI Forex Gold Crypto coverage with nine timeframes, strategy profiles and multilingual market intelligence">
 
 ### Dashboard symbol selection
 
@@ -114,23 +122,23 @@ This gives users visibility not only into **why a trade exists**, but also **why
 
 **⚡ Scalp `M1–M15` · 📊 Day Trade `M30–H4` · 🌊 Swing `H4–D1`**
 
-[Markets & timeframes](../MARKETS.md) · [Risk profiles](../RISK_PROFILES.md)
+[Markets & timeframes](../MARKETS.md) · [Risk profiles](../RISK_PROFILES.md) · [Forex, Gold & Crypto intelligence](../FOREX-GOLD-CRYPTO.md)
 
 ---
 
-## Explainable AI — Signal → Reason → Risk
+## Explainable AI — signal → reason → risk
 
-<img src="./assets/intelligence-flow.svg" width="100%" alt="CoreX Signal AI explainable intelligence flow">
+<img src="./assets/intelligence-flow.svg" width="100%" alt="CoreX Signal AI explainable artificial intelligence market analysis flow">
 
 CoreX Signal AI is designed around **human-readable model context** rather than a black-box signal badge.
 
-Visible reasoning can surface contributors such as:
-
-**Trend Strength · PCA Principal Factor · Momentum Differential · Slope Gradient · Momentum Acceleration · Hurst Trend Exponent · Short-Term Flow Imbalance · Dynamic Time-Warp Match · Distribution Skew · Volatility / Regime Effects · RSI / MACD Divergence · Directional Boost / Inhibitor Context**
+Visible reasoning can surface contributors such as **Trend Strength, PCA Principal Factor, Momentum Differential, Slope Gradient, Momentum Acceleration, Hurst Trend Exponent, Short-Term Flow Imbalance, Dynamic Time-Warp Match, Distribution Skew, Volatility / Regime Effects, RSI / MACD Divergence and Directional Boost / Inhibitor Context**.
 
 The user-facing chain is:
 
 > **Market state → timeframe agreement → AI decision → protection / risk → forecast → structural context → readable reasoning**
+
+[**Explore Explainable AI →**](../EXPLAINABLE-AI.md)
 
 ---
 
@@ -170,7 +178,7 @@ It is designed to connect signal context to disciplined planning. **It does not 
 
 ## Probabilistic Forecast Engine
 
-The forecasting layer presents uncertainty through **95% confidence intervals, 1,000 simulated paths, forecast horizon, lower / median / upper scenarios and directional spread** instead of presenting one deterministic future price.
+The forecasting layer presents uncertainty through **confidence intervals, simulated paths, forecast horizon, lower / median / upper scenarios and directional spread** instead of presenting one deterministic future price.
 
 ---
 
@@ -222,13 +230,26 @@ The chart provides multi-timeframe price visualization with selectable signal ov
 
 ---
 
+## Explore CoreX Signal AI by topic
+
+| Topic | Guide |
+|---|---|
+| 🧠 **AI Market Intelligence** | [How the complete quantitative intelligence stack works](../AI-MARKET-INTELLIGENCE.md) |
+| 🔍 **Explainable AI** | [Readable model reasoning, factors and protection logic](../EXPLAINABLE-AI.md) |
+| 💱 **Forex, Gold & Crypto** | [EURUSD, XAUUSD, Bitcoin, Ethereum and multi-market workflows](../FOREX-GOLD-CRYPTO.md) |
+| 🎯 **Use Cases** | [Practical workflows for traders, teams and fintech users](../USE_CASES.md) |
+| ❓ **FAQ** | [Product, markets, AI, infrastructure and scope](../FAQ.md) |
+| 🗂 **Public Content Index** | [Complete navigation across all documentation](../INDEX.md) |
+
+---
+
 ## Public Technology & Delivery Ecosystem
 
 The public product presentation references a wider ecosystem across market connectivity, data, visualization, storage and delivery:
 
 **CoreX Capital AI · Axis Option · MetaTrader 5 · Bloomberg · Refinitiv · FactSet · S&P Global · ICE · TradingView · Binance · Cloudflare · PostgreSQL · Redis · MongoDB**
 
-Brand names identify public technology / infrastructure references; no endorsement is implied unless explicitly stated by the respective brand owner.
+These names identify public technology / infrastructure references. Third-party references do not indicate ownership of the CoreX Signal AI core and do not imply endorsement unless explicitly stated by the respective brand owner.
 
 [**View integrations & public architecture →**](../INTEGRATIONS.md)
 
@@ -238,6 +259,7 @@ Brand names identify public technology / infrastructure references; no endorseme
 
 | Document | Purpose |
 |---|---|
+| 🗂 [**Content Index**](../INDEX.md) | Central navigation for the complete public documentation set |
 | 📘 [**Dashboard Guide**](../DASHBOARD.md) | Full module-by-module dashboard documentation |
 | ✨ [**Feature Catalog**](../FEATURES.md) | Complete public feature matrix |
 | 🌍 [**Markets & Timeframes**](../MARKETS.md) | Symbols, timeframe stack and trade-style mapping |
