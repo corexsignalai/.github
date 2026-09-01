@@ -4,6 +4,12 @@ This repository powers the public GitHub organization profile for **CoreX Signal
 
 > **Organization profile:** [`profile/README.md`](profile/README.md)
 
+## Technology origin
+
+**CoreX Signal AI is built on proprietary technology infrastructure designed and developed by CoreX Capital AI.**
+
+CoreX Capital AI is the developer of the CoreX Signal AI core technology infrastructure. Third-party services and platforms referenced across this repository are integration, connectivity, market-data, visualization, storage or delivery components; they are not the developer or owner of the CoreX Signal AI core infrastructure.
+
 ## Visual product overview
 
 <img src="profile/assets/dashboard-intelligence-map.svg" width="100%" alt="CoreX Signal AI dashboard intelligence overview">
