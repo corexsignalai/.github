@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="360" viewBox="0 0 1500 360" role="img" aria-labelledby="t d">
+<title id="t">CoreX Signal AI Intelligence Flow</title>
+<desc id="d">Animated product diagram from market input through multi-timeframe analysis, decision, risk and explainability.</desc>
+<defs>
+  <linearGradient id="b" x1="0" x2="1"><stop stop-color="#030811"/><stop offset="1" stop-color="#07131b"/></linearGradient>
+  <linearGradient id="a" x1="0" x2="1"><stop stop-color="#00f5c3"/><stop offset="1" stop-color="#40cfff"/></linearGradient>
+  <filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="x"/><feMerge><feMergeNode in="x"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+    .h{font:800 25px Inter,Segoe UI,Arial,sans-serif;fill:#f4f8fb}
+    .s{font:600 15px Inter,Segoe UI,Arial,sans-serif;fill:#91a8b8}
+    .n{font:800 18px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#00f5c3}
+  </style>
+</defs>
+<rect width="1500" height="360" rx="28" fill="url(#b)" stroke="#153546" stroke-width="2"/>
+<text x="62" y="64" class="h">From market state to explainable decision context</text>
+<text x="62" y="94" class="s">A user-facing intelligence chain — no proprietary model code exposed.</text>
+<line x1="100" y1="190" x2="1400" y2="190" stroke="#173846" stroke-width="4"/>
+<line x1="100" y1="190" x2="310" y2="190" stroke="url(#a)" stroke-width="4" filter="url(#g)">
+  <animate attributeName="x1" values="100;1190;100" dur="7s" repeatCount="indefinite"/>
+  <animate attributeName="x2" values="310;1400;310" dur="7s" repeatCount="indefinite"/>
+</line>
+
+<g transform="translate(85 132)">
+ <rect width="235" height="118" rx="18" fill="#07141e" stroke="#1d4051"/><text x="22" y="39" class="n">01 MARKET</text><text x="22" y="70" class="h">Live Context</text><text x="22" y="96" class="s">Symbols · sessions · regime</text>
+</g>
+<g transform="translate(355 132)">
+ <rect width="235" height="118" rx="18" fill="#07141e" stroke="#1d4051"/><text x="22" y="39" class="n">02 COHERENCE</text><text x="22" y="70" class="h">9 Timeframes</text><text x="22" y="96" class="s">BUY · SELL · HOLD alignment</text>
+</g>
+<g transform="translate(625 132)">
+ <rect width="235" height="118" rx="18" fill="#07141e" stroke="#00d9ad" stroke-opacity=".5"/><text x="22" y="39" class="n">03 DECISION</text><text x="22" y="70" class="h">AI Output</text><text x="22" y="96" class="s">Signal · rationale · history</text>
+</g>
+<g transform="translate(895 132)">
+ <rect width="235" height="118" rx="18" fill="#07141e" stroke="#1d4051"/><text x="22" y="39" class="n">04 RISK</text><text x="22" y="70" class="h">Plan &amp; Forecast</text><text x="22" y="96" class="s">ATR · SL/TP · scenarios</text>
+</g>
+<g transform="translate(1165 132)">
+ <rect width="250" height="118" rx="18" fill="#07141e" stroke="#1d4051"/><text x="22" y="39" class="n">05 EXPLAIN</text><text x="22" y="70" class="h">Human Readable</text><text x="22" y="96" class="s">Factors · macro · structure</text>
+</g>
+</svg>
