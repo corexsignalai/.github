@@ -8,12 +8,13 @@
 
 ### AI-Powered Quantitative Market Intelligence
 
-**Explainable signals · Strategy selection · 11 languages · Multi-market monitoring · Dynamic risk context · Historical Win-Rate analytics**
+**Explainable AI · Multi-Market Intelligence · 9-Timeframe Coherence · Dynamic Risk Context · 11-Language Access · Historical Setup Analytics**
 
 [![Website](https://img.shields.io/badge/Official_Website-corexsignalai.com-07111b?style=for-the-badge&logo=googlechrome&logoColor=00f5c3)](https://corexsignalai.com/)
 [![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-Open-07111b?style=for-the-badge&logo=activitypub&logoColor=00f5c3)](https://api.corexsignalai.com/)
 [![Demo](https://img.shields.io/badge/Interactive_Demo-Explore-07111b?style=for-the-badge&logo=databricks&logoColor=00f5c3)](https://corexsignalai.com/demo.html)
 [![Languages](https://img.shields.io/badge/Languages-11-07111b?style=for-the-badge&logo=googletranslate&logoColor=00f5c3)](https://corexsignalai.com/)
+[![Dashboard Guide](https://img.shields.io/badge/Dashboard_Guide-Complete-07111b?style=for-the-badge&logo=bookstack&logoColor=00f5c3)](../DASHBOARD.md)
 [![Contact](https://img.shields.io/badge/Contact-info%40corexsignalai.com-07111b?style=for-the-badge&logo=gmail&logoColor=00f5c3)](mailto:info@corexsignalai.com)
 
 </div>
@@ -22,353 +23,303 @@
 
 ## One dashboard. Multiple intelligence layers.
 
-**CoreX Signal AI** is a quantitative market-intelligence and signal-analytics platform built to turn complex multi-market data into a readable decision workspace.
+**CoreX Signal AI** is an AI-powered quantitative market intelligence and signal analytics platform built to transform complex multi-market data into a readable, high-speed decision workspace.
 
-Instead of showing a single BUY/SELL label, the dashboard combines **signal rationale, multi-timeframe coherence, strategy profiles, market regime, risk context, historical setup statistics, probabilistic forecasting, market-depth context, macro intelligence and model interpretation** in one interface.
+Instead of reducing the market to a single BUY / SELL badge, the product combines:
 
-The product is designed for **analysis and decision support**. It does **not** directly execute trades.
+**AI decision logic · multi-timeframe coherence · strategy profiles · Active Protection · risk planning · probabilistic forecasting · institutional depth · historical setup analytics · model interpretation · factor intelligence · regime analysis · macro context · price / signal visualization**
 
-<table>
-<tr>
-<td width="33%"><b>🧠 Explainable AI</b><br>Readable rationale and factor attribution behind signal decisions.</td>
-<td width="33%"><b>🧭 Strategy Personalization</b><br>Conservative, Balanced, Aggressive and Scalper profiles.</td>
-<td width="33%"><b>🌐 11 Languages</b><br>International dashboard access from the same product experience.</td>
-</tr>
-<tr>
-<td><b>↕ Multi-Timeframe</b><br>Micro-to-macro coherence across the active timeframe stack.</td>
-<td><b>🛡 Dynamic Risk Context</b><br>Risk state, ATR framing, SL/TP geometry and profile-aware sizing context.</td>
-<td><b>📈 Historical Setup Analytics</b><br>Win Rate, Expected R, sample size, drawdown and signal-history context.</td>
-</tr>
-</table>
+The result is an analytical environment designed to make the market **clearer, more explainable and more actionable**.
+
+> CoreX Signal AI is designed for **analysis and decision support**. It does **not** directly execute trades.
 
 ---
 
-## The live intelligence workspace
+<div align="center">
 
-<img src="./assets/screenshots/golden-buy-dashboard.jpg" width="100%" alt="CoreX Signal AI dashboard showing a Golden BUY signal, multi-timeframe coherence, master action gauges and execution optimization">
+### Product at a glance
 
-The interface brings the signal decision and its supporting context into a single view: **AI Decision Output, Cross-Timeframe Coherence, Strategic Console, Execution Optimization, forecast distribution, depth zones and performance analytics**.
+| **7 Dashboard Symbols** | **9 Timeframes** | **4 Risk Profiles** | **3 Trade Styles** | **11 Languages** |
+|:---:|:---:|:---:|:---:|:---:|
+| EURUSD → Ethereum | M1 → MN1 | Conservative → Scalper | Scalp · Day · Swing | Global UX |
 
-> **Important:** live metrics change with market conditions. Historical win-rate, expected-value, return, drawdown and sample-size figures shown in screenshots or examples are contextual analytics, not guarantees of future results.
-
----
-
-# Dashboard Intelligence Map
-
-## 1. AI Decision Output
-
-The **AI Decision Output** is the primary decision layer. It turns the active model state into a readable action such as **BUY, SELL or HOLD**, while showing the reason the system accepted, rejected or delayed an entry.
-
-It can include:
-
-- primary market bias and actionable read;
-- recommended action;
-- signal / hold state;
-- historical outcome or Win Rate for comparable setups;
-- Expected R / expected value;
-- historical sample size;
-- profile-adjusted score;
-- meta-analysis of timeframe alignment;
-- veto / inhibitor context;
-- readable model reasoning.
-
-This makes the decision layer more than a signal badge: the user can see **what the system sees and why it is acting or waiting**.
+</div>
 
 ---
 
-## 2. Cross-Timeframe Coherence
+## Dashboard Intelligence Overview
 
-<img src="./assets/screenshots/dashboard-intelligence-wide.jpg" width="100%" alt="CoreX Signal AI cross-timeframe coherence, strategic console, execution optimization, forecast and depth panels">
+<img src="./assets/dashboard-intelligence-map.svg" width="100%" alt="CoreX Signal AI complete dashboard intelligence map">
 
-The coherence matrix compares the active market across multiple timeframes, from short-term flow to higher-timeframe structure.
+The dashboard is organized as a complete intelligence stack rather than a collection of disconnected widgets.
 
-**Dashboard timeframe set:** `M1 · M5 · M15 · M30 · H1 · H4 · D1 · W1 · MN1`
-
-Each timeframe can display its own:
-
-**BUY / SELL / HOLD state · directional score · price context · confidence / strength · mini price path**
-
-The dashboard then summarizes how many timeframes are aligned and highlights the timeframe associated with the user's selected profile.
-
----
-
-## 3. Strategic Console / Master Action Gauge
-
-The Strategic Console compresses several decision dimensions into a fast visual read.
-
-| Metric | What it communicates |
+| Intelligence layer | What the user gets |
 |---|---|
-| **AI Confidence** | model confidence context for the current decision |
-| **Master Score** | combined decision strength |
-| **Market Risk** | current risk-state context |
-| **Buyer Power / directional power** | directional participation context |
-| **Alignment / Readiness** | degree of confluence and decision readiness |
+| 🧠 **AI Decision Output** | BUY / SELL / HOLD / VETO state, recommended action, rationale, historical Win Rate, Expected R and setup context |
+| ↕ **Cross-Timeframe Coherence** | Micro-to-macro agreement across nine timeframes |
+| 🎛 **Strategic Console** | AI Confidence, Master Score, Market Risk and directional-power context |
+| 🛡 **Execution Optimization** | ATR-aware analytical sizing, R:R, SL / Entry / TP geometry and risk-budget context |
+| 🔮 **Probabilistic Forecasting** | 95% CI, 1,000-path scenario distribution, lower / median / upper outcomes |
+| 🏦 **Institutional Depth Map** | Supply / demand zones, FVG / OB context and spot-price anchoring |
+| 📈 **Strategy Performance Curve** | Historical / simulated return, drawdown, Win Rate, signal count and equity curve |
+| 🔍 **Model Interpretation** | Human-readable reasoning by timeframe |
+| 🕸 **Factor Intelligence Hub** | Radar view and ranked positive / negative impact drivers |
+| 🌐 **Market Regime Pulse** | Alignment, drift and cross-market correlation context |
+| 📰 **Macro Intelligence Feed** | Headlines, sentiment, impact and session windows |
+| 🧬 **Regime & Structural DNA** | Trending / Random-Walk state, Hurst and ML context |
+| 📊 **Price & Signal Chart** | Price path with selectable signal layers |
+| 🧭 **Secondary Timeframe Analysis** | Additional BUY / SELL / HOLD reasoning outside the primary timeframe |
+| ⚙️ **Strategy Selection** | Conservative, Balanced, Aggressive and Scalper behavior |
+| 🌍 **Global Experience** | 11-language product access across the same intelligence workflow |
 
-The result is a faster way to understand whether a signal is **strong, conflicted, early, late or better left alone**.
-
----
-
-## 4. Strategy Selection & Risk Profiles
-
-<img src="./assets/screenshots/dashboard-risk-profiles.jpg" width="100%" alt="CoreX Signal AI symbol selector and Conservative, Balanced, Aggressive and Scalper strategy profiles">
-
-CoreX Signal AI adapts its signal filtering to the selected strategy profile.
-
-| Profile | Dashboard multiplier | Intended behavior |
-|---|---:|---|
-| **Conservative** | `×0.5` | highest-conviction filtering, fewer signals, stricter vetoes |
-| **Balanced** | `×1.0` | balanced frequency and protection |
-| **Aggressive** | `×1.5` | more opportunities; softer vetoes may become warnings |
-| **Scalper** | `×2.0` | maximum frequency for short-term tactical analysis |
-
-The profile is part of the decision context, so the same market can be evaluated differently depending on the selected risk/strategy style.
+[**Read the complete dashboard guide →**](../DASHBOARD.md)
 
 ---
 
-## 5. Multi-Market Coverage & Symbol Selection
+## Active Protection — the system can refuse a bad entry
 
-The dashboard supports rapid switching between multiple live market symbols. Current dashboard examples include:
+<img src="./assets/protection-flow.svg" width="100%" alt="CoreX Signal AI Active Protection and Veto decision flow">
+
+A professional decision system should be able to say **do not enter**.
+
+CoreX Signal AI can expose a **VETO / Active Protection** state when risk factors or inhibitors make entry unsuitable. Instead of silently removing a signal, the dashboard can show:
+
+- the protection state;
+- recommended action;
+- inhibitor / meta-analysis context;
+- profile-adjusted decision context;
+- **Auto re-scanning** while conditions are re-evaluated;
+- impact on **Scalp, Day Trade and Swing** horizons.
+
+That gives users visibility not only into **why a trade exists**, but also **why a trade is being blocked**.
+
+[**Explore decision states & protection →**](../DECISION_STATES.md)
+
+---
+
+## Multi-Market · Multi-Timeframe · Multi-Profile
+
+<img src="./assets/coverage-grid.svg" width="100%" alt="CoreX Signal AI market timeframe strategy and language coverage">
+
+### Dashboard symbol selection
 
 `EURUSD` · `GBPUSD` · `USDJPY` · `USDCAD` · `XAUUSD` · `Bitcoin` · `Ethereum`
 
-The public product also presents market intelligence across major **Forex, Crypto and equity/stock contexts**, with availability depending on the product experience and plan.
+### 9-timeframe coherence stack
 
-The live ticker layer gives users a compact cross-market read before opening a deeper symbol view.
+`M1` · `M5` · `M15` · `M30` · `H1` · `H4` · `D1` · `W1` · `MN1`
 
----
+### Strategy / risk profiles
 
-## 6. Execution Optimization — analytical planning, not order execution
+| Profile | Multiplier | Public behavior |
+|---|---:|---|
+| 🛡 **Conservative** | `×0.50` | Highest-conviction filtering · fewer signals · strictest veto behavior |
+| ⚖️ **Balanced** | `×1.00` | Balanced protection and opportunity frequency |
+| ⚡ **Aggressive** | `×1.50` | More opportunities · softer vetoes can become warnings |
+| 🎯 **Scalper** | `×2.00` | Maximum short-term tactical frequency |
 
-The **Execution Optimization** module translates the signal into risk-planning context. It does **not** place the trade.
+### Trade-style impact
 
-It can show:
+**⚡ Scalp `M1–M15` · 📊 Day Trade `M30–H4` · 🌊 Swing `H4–D1`**
 
-- analytical lot-size context;
-- risk budget;
-- `ATR-14` and ATR percentage;
-- Stop-Loss distance;
-- Take-Profit distance;
-- entry reference;
-- SL / Entry / TP geometry;
-- Risk:Reward framing;
-- risk-state classification.
-
-This allows the dashboard to connect **signal intelligence** with **risk-aware trade planning** without becoming an automatic execution terminal.
+[Markets & timeframes](../MARKETS.md) · [Risk profiles](../RISK_PROFILES.md)
 
 ---
 
-## 7. Probabilistic Forecast Engine
+## Explainable AI — signal → reason → risk
 
-The forecast module uses scenario distribution to express uncertainty instead of pretending the market has a single deterministic future.
+<img src="./assets/intelligence-flow.svg" width="100%" alt="CoreX Signal AI explainable intelligence flow">
 
-Dashboard elements include:
+CoreX Signal AI is built around **human-readable model context**.
 
-**95% confidence interval · 1,000 paths · forecast horizon · lower scenario · median scenario · upper scenario · directional spread**
-
-The goal is to show a **range of plausible paths** and make uncertainty visible.
-
----
-
-## 8. Institutional Depth Map
-
-The **Institutional Depth Map** visualizes important market zones around the live price anchor.
-
-It can display:
-
-- Institutional Supply Zone;
-- Institutional Demand Zone;
-- Order Block (`OB`) context;
-- Fair Value Gap (`FVG`) context;
-- zone confidence / strength;
-- live spot-price anchor.
-
-This layer gives the signal additional structural context beyond a simple directional prediction.
-
----
-
-## 9. Strategy Performance Curve
-
-The performance panel visualizes historical / simulated signal-history statistics such as:
-
-**Return · Maximum Drawdown · Win Rate · Signal Count · equity curve**
-
-<img src="./assets/screenshots/dashboard-full-analysis.jpg" width="100%" alt="CoreX Signal AI full analysis dashboard with probabilistic forecast, institutional depth, strategy performance, model interpretation and factor intelligence">
-
-These statistics are used as **historical analytical context**. They are not promises, guaranteed returns or a representation that future results will match past setups.
-
----
-
-## 10. Model Interpretation Layer
-
-CoreX Signal AI is designed to expose model reasoning rather than hide the decision behind a black box.
-
-The interpretation stream can surface factors such as:
+Visible reasoning can surface contributors such as:
 
 - Trend Strength Factor;
 - PCA Principal Factor;
 - Momentum Differential;
 - Slope Gradient;
+- Momentum Acceleration;
 - Hurst Trend Exponent;
 - Short-Term Flow Imbalance;
 - Dynamic Time-Warp Match;
-- distribution / volatility factors;
-- divergence and exhaustion signals;
-- BUY / SELL boost logic;
-- higher-timeframe confirmation or inhibitors.
+- Distribution Skew;
+- volatility / regime effects;
+- RSI / MACD divergence context;
+- directional boost / inhibitor logic.
 
-This lets the user inspect **which factors supported, opposed or neutralized** the current decision.
+The user-facing chain is:
 
----
-
-## 11. Factor Intelligence Hub
-
-The **Factor Intelligence Hub** turns model contributors into a visual attribution layer.
-
-It combines a multi-axis factor view with ranked **Impact Drivers**, helping users see which inputs are currently carrying the most weight in the analytical decision.
-
-Examples visible in the dashboard include **MACD, ADX, PCA factors, volatility components, divergences, DTW and multi-signal context**.
+> **Market state → timeframe agreement → AI decision → protection / risk → forecast → structural context → readable reasoning**
 
 ---
 
-## 12. Market Regime Pulse
+## AI Decision Output
 
-<img src="./assets/screenshots/regime-price-signal.jpg" width="100%" alt="CoreX Signal AI Market Regime Pulse, Macro Intelligence Feed, Regime and Structural DNA, and Price and Signal Chart">
+The primary decision layer is designed to answer three questions immediately:
 
-The Market Regime Pulse evaluates cross-market alignment and sync/drift context.
+1. **What should I do?**
+2. **Why is the system saying that?**
+3. **What evidence and risk context surround the decision?**
 
-It presents:
+Depending on the market state, it can display:
 
-- positive / negative alignment scale;
-- cross-market correlation;
-- aligned, drifting or other regime context;
-- the active timeframe / reference relationship.
+**BUY · SELL · HOLD · VETO · Active Protection · recommended action · rationale · score / threshold · historical Win Rate · Expected R · past setups · profile context · model reasoning**
 
-The purpose is to answer a key question before acting on a signal: **is the broader market environment supporting it?**
-
----
-
-## 13. Macro Intelligence Feed
-
-The dashboard integrates macro and news context into the same workspace.
-
-The feed can combine:
-
-**headline context · sentiment state · impact context · upcoming market-session windows**
-
-This gives the user an immediate view of whether technical/model output is occurring around important macro information or active session transitions.
+A strong signal can be presented with clear confluence and historical context; a weak or conflicted state can explicitly recommend waiting.
 
 ---
 
-## 14. Regime & Structural DNA
+## Cross-Timeframe Coherence
 
-The structural layer describes the market's current statistical behavior.
+The system does not hide disagreement between timeframes.
 
-It includes elements such as:
+Every timeframe can carry its own state and context, allowing the user to see whether short-term flow and higher-timeframe structure agree.
 
-- Random-Walk vs Trending state;
-- Hurst exponent context;
-- structural score;
-- ML confirmation / neutral state.
+The matrix can summarize:
 
-This helps distinguish **persistent directional structure** from conditions where price behavior is closer to random or weakly structured.
+**Buy count · Sell count · Wait count · coherence % · active profile timeframe**
 
----
-
-## 15. Price & Signal Chart
-
-The chart layer combines price with active signal overlays and lets the user compare signal layers across timeframes.
-
-It supports the same multi-timeframe family used by the coherence engine, allowing the user to move from an abstract score to a **visual map of where signals occurred relative to price**.
+This is especially useful when one timeframe is actionable but several others remain HOLD.
 
 ---
 
-## 16. Secondary Timeframe Analysis
+## Strategic Console / Master Action Gauge
 
-<img src="./assets/screenshots/secondary-timeframe-analysis.jpg" width="100%" alt="CoreX Signal AI Secondary Timeframe Analysis showing BUY SELL HOLD context and recommended actions">
+The Strategic Console compresses decision quality into a fast visual layer around:
 
-Not every timeframe should produce an entry.
+**AI Confidence · Master Score · Market Risk · Buyer / directional power · Alignment · Readiness**
 
-The Secondary Timeframe Analysis explicitly displays **waiting, HOLD, BUY and SELL context** for non-primary timeframes, together with recommended action and expandable reasoning.
-
-This is important because a professional system needs to explain **when not to trade**, not only when to generate a signal.
+It is designed for fast scanning before the user opens the deeper factor stream.
 
 ---
 
-# 11-Language Experience
+## Execution Optimization
 
-CoreX Signal AI exposes a language selector directly inside the live dashboard and publicly presents **11 supported languages**.
+The Execution Optimization panel translates intelligence into **analytical risk-planning context**.
 
-The multilingual layer is designed so the same intelligence workflow can be used across markets without turning the interface into separate regional products.
+It can expose:
 
-**One product · one intelligence stack · 11-language access**
+`Direction · Risk class · R:R · Lot size · Stop Loss · Entry · Take Profit · Risk budget · TP distance · SL distance · ATR % · ATR-14`
 
----
-
-# Explainable Quant Intelligence
-
-<img src="./assets/intelligence-flow.svg" width="100%" alt="CoreX Signal AI animated intelligence flow from market context to explainable decision support">
-
-The public CoreX Signal AI experience describes an explainable decision stack that includes structural mathematics and machine-learning components such as **PCA, Hurst analysis, ML ensembles and NLP sentiment**.
-
-What matters to the user is the output:
-
-**Signal → confidence → rationale → timeframe agreement → risk context → scenario range → historical setup context**
-
-That chain is the center of the CoreX Signal AI experience.
+**It does not place the trade.** The purpose is to connect signal context to disciplined planning.
 
 ---
 
-# Real Dashboard States
+## Probabilistic Forecast Engine
 
-### Live XAUUSD analysis
+Markets are uncertain. The forecast layer makes that uncertainty visible.
 
-<img src="./assets/screenshots/live-xauusd-dashboard.jpg" width="100%" alt="CoreX Signal AI live XAUUSD dashboard state">
+The public interface can show:
 
-### Full multi-layer analytical state
+**95% confidence interval · 1,000 simulated paths · 24h or configured horizon · lower / median / upper scenario · directional spread**
 
-<img src="./assets/screenshots/dashboard-intelligence-wide.jpg" width="100%" alt="CoreX Signal AI multi-layer analytical dashboard">
-
-The dashboard is intentionally capable of showing **strong signals, conflicting signals and HOLD states**. The objective is not to force an action on every market update; it is to make confluence, conflict and risk visible.
+Instead of presenting one guaranteed future price, the dashboard shows a distribution of plausible paths.
 
 ---
 
-# Built for decision quality
+## Institutional Depth Map
 
-<table>
-<tr>
-<td width="25%" align="center"><b>⚡ Real-Time Context</b><br>Live market intelligence and continuously refreshed signal context.</td>
-<td width="25%" align="center"><b>🧠 Human-Readable AI</b><br>Model reasoning and factor drivers presented in the interface.</td>
-<td width="25%" align="center"><b>🛡 Risk-Aware</b><br>Profile-aware filters, risk state and analytical SL/TP framing.</td>
-<td width="25%" align="center"><b>🌍 Global UX</b><br>Multi-market workflow with 11-language access.</td>
-</tr>
-</table>
+The depth layer adds market structure around the live spot price:
+
+**Institutional Supply Zone · Institutional Demand Zone · FVG / OB context · zone confidence · spot-price anchor · support / resistance / liquidity framing**
 
 ---
 
-# Product positioning
+## Strategy Performance Curve
 
-CoreX Signal AI is best described as an:
+Signal-history analytics can be displayed through:
 
-> **AI-powered quantitative market intelligence and signal analytics platform.**
+**Return · Maximum Drawdown · Win Rate · Signal Count · Equity Curve**
 
-It is **not an automated trade-execution system**. Users remain responsible for their own decisions, execution and risk.
-
-The platform is powered by the broader **CoreX Capital AI** technology infrastructure.
+These figures are historical / simulated analytical context, not promises of future performance.
 
 ---
 
-# Official Links
+## Model Interpretation + Factor Intelligence
 
-| Destination | Official link |
+Two layers work together:
+
+### Model Interpretation Layer
+Readable per-timeframe reasoning showing which factors support or oppose the active state.
+
+### Factor Intelligence Hub
+A visual factor radar and ranked **Impact Drivers** showing positive and negative contributors.
+
+This gives users a path from the top-level decision down to the analytical factors behind it.
+
+---
+
+## Market Regime + Structural DNA
+
+The system can distinguish between the directional signal and the environment around it.
+
+### Market Regime Pulse
+**Alignment · drift · correlation · reference timeframe · market sync context**
+
+### Regime & Structural DNA
+**Trending / Random-Walk · Hurst · structural score · ML confirmation / neutral state**
+
+This helps the user understand whether the broader market environment supports the signal.
+
+---
+
+## Macro Intelligence Feed
+
+Technical / model intelligence is paired with market-event context.
+
+The feed can include:
+
+**Headline · sentiment state · impact level · AI sentiment processing · upcoming London / New York / other session windows**
+
+The objective is to keep macro awareness inside the same decision workspace.
+
+---
+
+## Price & Signal Chart + Secondary Analysis
+
+### Price & Signal Chart
+Multi-timeframe price visualization with selectable signal overlays and active-layer comparison.
+
+### Secondary Timeframe Analysis
+Detailed non-primary timeframe cards that can explain:
+
+- why an apparent trend is still a HOLD;
+- why ADX / trend power is insufficient;
+- why volatility creates an inhibitor;
+- why a BUY / SELL threshold has or has not been reached;
+- which factors created boost or reversal context.
+
+A key design principle is simple:
+
+> **Decision quality is more important than forcing signal frequency.**
+
+---
+
+## Public technology & delivery ecosystem
+
+The public product presentation references a wider technology and infrastructure stack across market connectivity, data, visualization, storage and delivery.
+
+**CoreX Capital AI · Axis Option · MetaTrader 5 · Bloomberg · Refinitiv · FactSet · S&P Global · ICE · TradingView · Binance · Cloudflare · PostgreSQL · Redis · MongoDB**
+
+Brand names identify public technology / infrastructure references; no endorsement is implied unless explicitly stated by the respective brand owner.
+
+[**View integrations & public architecture →**](../INTEGRATIONS.md)
+
+---
+
+## Complete public documentation
+
+| Document | Purpose |
 |---|---|
-| 🌐 **Website** | [corexsignalai.com](https://corexsignalai.com/) |
-| 🧠 **Live Dashboard** | [api.corexsignalai.com](https://api.corexsignalai.com/) |
-| 🧪 **Interactive Demo** | [corexsignalai.com/demo.html](https://corexsignalai.com/demo.html) |
-| 🏢 **CoreX Capital AI** | [corexcapitalai.com](https://corexcapitalai.com/) |
-| ✉️ **Business & Support** | [info@corexsignalai.com](mailto:info@corexsignalai.com) |
-| 📘 **Dashboard Guide** | [DASHBOARD.md](../DASHBOARD.md) |
-| 🛡 **Security** | [SECURITY.md](../SECURITY.md) |
-| 💬 **Support** | [SUPPORT.md](../SUPPORT.md) |
+| 📘 [**Dashboard Guide**](../DASHBOARD.md) | Full module-by-module dashboard documentation |
+| ✨ [**Feature Catalog**](../FEATURES.md) | Complete public feature matrix |
+| 🌍 [**Markets & Timeframes**](../MARKETS.md) | Symbols, timeframe stack and trade-style mapping |
+| 🛡 [**Risk Profiles**](../RISK_PROFILES.md) | Conservative, Balanced, Aggressive and Scalper behavior |
+| 🚦 [**Decision States**](../DECISION_STATES.md) | BUY / SELL / HOLD / VETO and Active Protection |
+| 🏗 [**Integrations**](../INTEGRATIONS.md) | Public technology and delivery architecture |
+| 🎨 [**Brand Guide**](../BRAND.md) | Public identity and messaging rules |
+| 🔐 [**Security Policy**](../SECURITY.md) | Responsible vulnerability reporting |
+| 💬 [**Support**](../SUPPORT.md) | Product and account support channels |
 
 ---
 
@@ -378,10 +329,10 @@ The platform is powered by the broader **CoreX Capital AI** technology infrastru
 
 ### [Explore CoreX Signal AI →](https://corexsignalai.com/) · [Open the Demo →](https://corexsignalai.com/demo.html) · [Launch Dashboard →](https://api.corexsignalai.com/)
 
-**Quantitative intelligence should be powerful enough for the market — and clear enough for the person making the decision.**
+**AI-powered. Data-driven. Human-understandable.**
 
 <sub>
-Risk & Information Notice: CoreX Signal AI provides analytical and informational market intelligence. It does not guarantee trading outcomes and does not directly execute trades. Historical, simulated or illustrative metrics — including Win Rate, Expected R, returns and drawdown — do not guarantee future performance. Financial markets involve risk, including the possible loss of capital. Users are responsible for their own decisions and for compliance with applicable local requirements.
+Risk & Information Notice: CoreX Signal AI provides analytical and informational market intelligence. It does not guarantee trading outcomes and does not directly execute trades. Historical, simulated or illustrative metrics — including Win Rate, Expected R, returns, drawdown, confidence and signal count — do not guarantee future performance. Financial markets involve risk, including the possible loss of capital. Users are responsible for their own decisions and for compliance with applicable local requirements.
 </sub>
 
 </div>
